@@ -1,0 +1,687 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umeok\\UniTrail.Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\auth\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\auth\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\auth\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\auth\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\buildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\ibuildingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\qrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\qrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\qrcodeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\qrcodeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\iqrcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\notificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\schedulednotificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\schedulednotificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\models\\dashboardstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:models\\dashboardstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\poicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\poicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\iservices\\ipoisevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:iservices\\ipoisevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|c:\\users\\umeok\\unitrail.admin\\unitrail.admin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F622BB82-03BC-FEEA-96FF-63EA517E76F5}|UniTrail.Admin.csproj|solutionrelative:unitrail.admin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:32:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:32:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:44:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:17:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:32:20.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:44:10.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:45:51.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:24:10.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:14:40.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:15:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:08:21.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\Auth\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:30:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:30:33.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\BuildingService.cs",
+              "RelativeDocumentMoniker": "Services\\BuildingService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\BuildingService.cs",
+              "RelativeToolTip": "Services\\BuildingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:37:25.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QrCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\QrCodeService.cs",
+              "RelativeDocumentMoniker": "Services\\QrCodeService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\QrCodeService.cs",
+              "RelativeToolTip": "Services\\QrCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:00:05.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QrCodeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\QrCodeInfo.cs",
+              "RelativeDocumentMoniker": "Models\\QrCodeInfo.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\QrCodeInfo.cs",
+              "RelativeToolTip": "Models\\QrCodeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:23:43.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "Models\\Building.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Building.cs",
+              "RelativeToolTip": "Models\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:38:28.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QrCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\QrCodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QrCodeController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\QrCodeController.cs",
+              "RelativeToolTip": "Controllers\\QrCodeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:28:17.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBuildingService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IBuildingService.cs",
+              "RelativeDocumentMoniker": "IServices\\IBuildingService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IBuildingService.cs",
+              "RelativeToolTip": "IServices\\IBuildingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:50:29.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\EventService.cs",
+              "RelativeToolTip": "Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:59:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IEventService.cs",
+              "RelativeDocumentMoniker": "IServices\\IEventService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IEventService.cs",
+              "RelativeToolTip": "IServices\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:24:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IUserService.cs",
+              "RelativeToolTip": "IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:24:26.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IQrCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IQrCodeService.cs",
+              "RelativeDocumentMoniker": "IServices\\IQrCodeService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IQrCodeService.cs",
+              "RelativeToolTip": "IServices\\IQrCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:24:39.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\INotificationService.cs",
+              "RelativeDocumentMoniker": "IServices\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\INotificationService.cs",
+              "RelativeToolTip": "IServices\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:24:58.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\NotificationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationRequest.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\NotificationRequest.cs",
+              "RelativeToolTip": "Models\\NotificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:23:08.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScheduledNotificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\ScheduledNotificationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduledNotificationRequest.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\ScheduledNotificationRequest.cs",
+              "RelativeToolTip": "Models\\ScheduledNotificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:22:49.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:22:16.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:59:41.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Services\\AdminService.cs",
+              "RelativeToolTip": "Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:35:59.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:26:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserManagementController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "Controllers\\UserManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:27:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:27:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:33:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DashboardStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\DashboardStatistics.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardStatistics.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Models\\DashboardStatistics.cs",
+              "RelativeToolTip": "Models\\DashboardStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:34:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "POIController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\POIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\POIController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\POIController.cs",
+              "RelativeToolTip": "Controllers\\POIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:29:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:26:41.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IAdminService.cs",
+              "RelativeDocumentMoniker": "IServices\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IAdminService.cs",
+              "RelativeToolTip": "IServices\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:35:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPoiSevice.cs",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IPoiSevice.cs",
+              "RelativeDocumentMoniker": "IServices\\IPoiSevice.cs",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\IServices\\IPoiSevice.cs",
+              "RelativeToolTip": "IServices\\IPoiSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:36:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UniTrail.Admin",
+              "DocumentMoniker": "C:\\Users\\umeok\\UniTrail.Admin\\UniTrail.Admin.csproj",
+              "RelativeDocumentMoniker": "UniTrail.Admin.csproj",
+              "ToolTip": "C:\\Users\\umeok\\UniTrail.Admin\\UniTrail.Admin.csproj",
+              "RelativeToolTip": "UniTrail.Admin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T14:25:02.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
